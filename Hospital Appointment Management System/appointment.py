@@ -2,7 +2,7 @@
 from Tkinter import *
 import sqlite3
 import tkMessageBox
-# connect to the databse.
+# connect to the databse.wew
 conn = sqlite3.connect('database.db')
 # cursor to move around the databse
 c = conn.cursor()
